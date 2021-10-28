@@ -22,7 +22,7 @@ gombokhoz az eseményfigyelőket!
 
 ## 3. feladat
 - A `js/person.js` fájlban dolgozz!
-- `person.js`: Hozz létre egy függvénykifejezést arrow function-nel! 
+- `person.js`:  Hozz létre egy függvénykifejezést arrow function-nel!
 - A függvény neve personDataLog legyen. 
 - A függvény paraméterként egy objektumot vár, amely firstname, lastname és age tulajdonságokkal rendelkezik. 
 - Amennyiben bármelyik tulajdonság hiányozna, úgy rendre a következő alapértelmezett értékeket vegyék fel: 
